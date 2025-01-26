@@ -1,21 +1,40 @@
-# Olá! 👋
+# 👋 Olá, eu sou [Seu Nome]!
 
-Sou um **Desenvolvedor de Software em Transição** com uma paixão por **Análise de Dados** e **Tecnologia**. Atualmente, atuo como Soldado da Polícia Militar e estou cursando **Análise e Desenvolvimento de Sistemas** (EAD) pela Uninove. Estou desenvolvendo minhas habilidades técnicas em **Python**, **Power BI**, **desenvolvimento web** e **banco de dados** através de formações em plataformas como Alura e Dio.
+🎯 **Policial Militar, estudante de Análise e Desenvolvimento de Sistemas e aspirante a Analista de Dados.**  
+🚀 Estou sempre em busca de evoluir, aprender algo novo e aplicar conhecimentos práticos em projetos reais.
 
-## Objetivo Profissional
-Busco um estágio em tecnologia onde possa aplicar minhas habilidades e agregar valor às equipes e projetos com foco em inovação e eficiência. Minha meta é migrar integralmente para o setor de TI após a graduação.
+---
 
-## Competências Técnicas
-- **Análise de Dados**: Python (pandas, NumPy), visualização de dados com Power BI
-- **Desenvolvimento Web**: HTML, CSS, React.js
-- **Banco de Dados**: SQL, NoSQL (MongoDB)
-- **Resolução de Problemas**: Habilidades desenvolvidas e aplicadas em situações de alta complexidade no serviço militar
+## 🌟 Sobre Mim
 
-## Diferenciais Profissionais
-- **Disciplina e Rigor**: Rigor e ética profissional adquiridos na Polícia Militar
-- **Gestão de Tempo e Multitarefa**: Equilíbrio entre múltiplas responsabilidades
-- **Proatividade e Aprendizado Contínuo**: Dedicação a aprender e dominar novas tecnologias
-- **Código Limpo e Eficiente**: Comprometido em escrever código de fácil manutenção, escalável e eficiente
+- **📚 Formação e Estudos:**  
+  Atualmente cursando **Análise e Desenvolvimento de Sistemas** na modalidade EAD pela **Uninove**, focado em desenvolvimento, análise de dados e machine learning.
 
-## Interesses
-Tenho grande interesse em novas tecnologias, soluções criativas e inovação em TI. Nos momentos de lazer, gosto de experimentar novas gastronomias
+- **💻 Habilidades Técnicas:**
+  - **Linguagens:** Python, SQL
+  - **Ferramentas:** Power BI, Jupyter Notebook, Excel Avançado
+  - **Interesses:** Análise de Dados, Desenvolvimento de Soluções com IA e Automação de Processos
+
+- **🎯 Objetivo Atual:**  
+  Me tornar um **Analista de Dados**, utilizando tecnologias como Python e Power BI para transformar dados em decisões inteligentes.
+
+---
+
+## 🎯 Metas para o Futuro
+
+- Desenvolver projetos completos com **Data Science** e **Machine Learning**.  
+- Abrir minha própria startup no setor de tecnologia.  
+- Contribuir para projetos **Open Source** e impactar comunidades de tecnologia.  
+
+---
+
+## 🛠️ Tecnologias que Uso
+
+- **Linguagens:** Python, SQL  
+- **Ferramentas de Análise:** Power BI, Excel  
+- **Desenvolvimento Web:** Flask, HTML, CSS  
+- **Gestão de Projetos:** Notion  
+
+---
+
+**"Transformando dados em decisões, sempre aprendendo e evoluindo."**
